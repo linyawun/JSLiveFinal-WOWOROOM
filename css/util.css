@@ -1,0 +1,63 @@
+/*sweetalert*/
+/* .swal2-popup.swal2-modal {
+  font-size: 18px; 
+}
+.swal2-modal .swal2-title {
+  font-size: 1.2em;
+} */
+.swal2-modal button {
+    padding: 10px 20px;
+  }
+  .swal2-modal .swal2-html-container{
+    font-weight: bold;
+    font-size: 1.25em;
+  } 
+
+.text-center{
+    text-align: center;
+}
+.preloader {/*   這是整個會蓋住畫面的底色色塊  */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 9999;
+    display: none;
+  }
+.status {/*   這是中間loading的css,我們盡量讓他畫面置中  */
+    position: fixed;
+    /* width: 218px;
+    height: 419px;
+    margin-left: -140px;
+    margin-top: -160px; */
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: none;
+}
+  
+  .loader {
+      width: 60px;
+      height: 60px;
+      border: 5px solid #FFF;
+      border-bottom-color: #6A33F8;
+      border-radius: 50%;
+      display: inline-block;
+      box-sizing: border-box;
+      animation: rotation 1s linear infinite;
+      }
+  
+      @keyframes rotation {
+      0% {
+          transform: rotate(0deg);
+      }
+      100% {
+          transform: rotate(360deg);
+      }
+      } 
+
+.d-block{
+    display: block;
+}

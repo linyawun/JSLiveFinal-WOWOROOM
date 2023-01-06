@@ -14,6 +14,7 @@
 - [axios](https://axios-http.com/)
 - [sweetalert2](https://sweetalert2.github.io/)
 - [validate.js](https://validatejs.org/)
+- [c3.js](https://c3js.org/)
 
 ## 說明
 此為2022年參加六角學院 JavaScript 直播班的最終作業，版型使用六角提供 html 與 css，只有稍做微調，主要練習 JavaScript 的API串接，功能包含：
@@ -28,4 +29,4 @@
 - 顯示訂單列表
 - 更改訂單狀態
 - 刪除單筆與刪除全部訂單
-- 依據訂單金額顯示c3.js圖表
+- 依據訂單金額顯示 c3.js 圖表

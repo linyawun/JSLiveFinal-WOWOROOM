@@ -16,7 +16,7 @@
 - [validate.js](https://validatejs.org/)
 
 ## 說明
-此為2022年參加六角學院JavaScript直播班的最終作業，版型使用六角提供html與css，只有稍做微調，主要練習JavaScript的API串接，功能包含：
+此為2022年參加六角學院 JavaScript 直播班的最終作業，版型使用六角提供 html 與 css，只有稍做微調，主要練習 JavaScript 的API串接，功能包含：
 ### 前台
 - 顯示產品列表
 - 產品類別篩選

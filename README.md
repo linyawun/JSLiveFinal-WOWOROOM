@@ -4,6 +4,10 @@
 - [前台](https://linyawun.github.io/JSLiveFinal-WOWOROOM/)
 - [後台](https://linyawun.github.io/JSLiveFinal-WOWOROOM/admin.html)
 
+## 畫面
+![image](https://user-images.githubusercontent.com/29305653/212092488-574899e9-1ba8-497c-913d-12b2b600a9a6.png)
+![image](https://user-images.githubusercontent.com/29305653/212092504-be370002-d3b7-425b-b0fe-106683909c39.png)
+
 ## 相關資源
 - [設計稿](https://xd.adobe.com/view/a48b8617-4588-4817-9062-b62130dce916-f1d8/)
 - [前台版型](https://codepen.io/hexschool/pen/ExLbePp?editors=1010)

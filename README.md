@@ -7,7 +7,7 @@
 ## 畫面
 ![image](https://user-images.githubusercontent.com/29305653/212092759-b8e53ba7-feb1-40d8-ab2b-40d616a68aad.png)
 ![image](https://user-images.githubusercontent.com/29305653/212092488-574899e9-1ba8-497c-913d-12b2b600a9a6.png)
-![image](https://user-images.githubusercontent.com/29305653/212092504-be370002-d3b7-425b-b0fe-106683909c39.png)
+![image](https://user-images.githubusercontent.com/29305653/212093118-681718f8-3f51-4822-ab9b-c8b0800f8371.png)
 
 ## 相關資源
 - [設計稿](https://xd.adobe.com/view/a48b8617-4588-4817-9062-b62130dce916-f1d8/)

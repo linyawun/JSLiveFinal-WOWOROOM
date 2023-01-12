@@ -5,6 +5,7 @@
 - [後台](https://linyawun.github.io/JSLiveFinal-WOWOROOM/admin.html)
 
 ## 畫面
+![image](https://user-images.githubusercontent.com/29305653/212092759-b8e53ba7-feb1-40d8-ab2b-40d616a68aad.png)
 ![image](https://user-images.githubusercontent.com/29305653/212092488-574899e9-1ba8-497c-913d-12b2b600a9a6.png)
 ![image](https://user-images.githubusercontent.com/29305653/212092504-be370002-d3b7-425b-b0fe-106683909c39.png)
 
